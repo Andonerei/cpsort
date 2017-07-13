@@ -4,6 +4,10 @@ I have a dummy MP3 player in my car. It always plays files in the filesystem ord
 
 This time i did it with Python. This is my 1st python script, so go easy on me :)
 
+## Install
+
+Just put cpsort file somewhere and make it executable.
+
 ## Usage
 The script is pretty simple. 
 
